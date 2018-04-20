@@ -1,0 +1,11 @@
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\bin\Debug\UserControlTest.exe.config
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\bin\Debug\UserControlTest.exe
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\bin\Debug\UserControlTest.pdb
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.csprojResolveAssemblyReference.cache
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.manageMain.resources
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.PersonUC.resources
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.Properties.Resources.resources
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.csproj.GenerateResource.Cache
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.exe
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.pdb
+C:\Users\napolsky\Desktop\UserControlTest\UserControlTest\obj\Debug\UserControlTest.PersonEdit.resources

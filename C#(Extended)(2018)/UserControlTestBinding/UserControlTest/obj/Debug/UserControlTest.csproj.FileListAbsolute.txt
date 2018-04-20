@@ -1,0 +1,11 @@
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\bin\Debug\UserControlTest.exe.config
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\bin\Debug\UserControlTest.exe
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\bin\Debug\UserControlTest.pdb
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTest.csprojResolveAssemblyReference.cache
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTest.Properties.Resources.resources
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTest.csproj.GenerateResource.Cache
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTest.exe
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTest.pdb
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTestNamespace.PersonEdit.resources
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTestNamespace.PersonFrame.resources
+P:\Barski\CSharp\B\UserControlTest\UserControlTest\obj\Debug\UserControlTestNamespace.UserControlTest.resources
