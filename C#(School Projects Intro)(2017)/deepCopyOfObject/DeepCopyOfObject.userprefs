@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{109A7440-80FC-4627-ADA1-F37B3F54AEBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeepCopyOfObject/Program.cs">
+    <Files>
+      <File FileName="DeepCopyOfObject/Program.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DeepCopyOfObject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

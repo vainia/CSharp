@@ -1,0 +1,5 @@
+/Users/vania/Projects/UnregularTable/Unregular_Table/bin/Debug/Unregular_Table.exe
+/Users/vania/Projects/UnregularTable/Unregular_Table/bin/Debug/Unregular_Table.exe.mdb
+/Users/vania/Projects/UnregularTable/Unregular_Table/obj/x86/Debug/Unregular_Table.csprojResolveAssemblyReference.cache
+/Users/vania/Projects/UnregularTable/Unregular_Table/obj/x86/Debug/Unregular_Table.exe
+/Users/vania/Projects/UnregularTable/Unregular_Table/obj/x86/Debug/Unregular_Table.exe.mdb

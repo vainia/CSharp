@@ -1,0 +1,4 @@
+/Users/vania/Projects/listFirstMeet/listFirstMeet/bin/Debug/listFirstMeet.exe
+/Users/vania/Projects/listFirstMeet/listFirstMeet/bin/Debug/listFirstMeet.exe.mdb
+/Users/vania/Projects/listFirstMeet/listFirstMeet/obj/x86/Debug/listFirstMeet.exe
+/Users/vania/Projects/listFirstMeet/listFirstMeet/obj/x86/Debug/listFirstMeet.exe.mdb

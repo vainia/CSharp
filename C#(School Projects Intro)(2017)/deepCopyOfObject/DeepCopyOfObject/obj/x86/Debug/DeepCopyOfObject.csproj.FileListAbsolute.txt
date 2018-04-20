@@ -1,0 +1,4 @@
+/Users/vania/Projects/DeepCopyOfObject/DeepCopyOfObject/bin/Debug/DeepCopyOfObject.exe
+/Users/vania/Projects/DeepCopyOfObject/DeepCopyOfObject/bin/Debug/DeepCopyOfObject.exe.mdb
+/Users/vania/Projects/DeepCopyOfObject/DeepCopyOfObject/obj/x86/Debug/DeepCopyOfObject.exe
+/Users/vania/Projects/DeepCopyOfObject/DeepCopyOfObject/obj/x86/Debug/DeepCopyOfObject.exe.mdb

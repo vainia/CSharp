@@ -1,0 +1,4 @@
+/Users/vania/Projects/CopyOfObjectProgram1/CopyOfObjectProgram1/bin/Debug/CopyOfObjectProgram1.exe
+/Users/vania/Projects/CopyOfObjectProgram1/CopyOfObjectProgram1/bin/Debug/CopyOfObjectProgram1.exe.mdb
+/Users/vania/Projects/CopyOfObjectProgram1/CopyOfObjectProgram1/obj/x86/Debug/CopyOfObjectProgram1.exe
+/Users/vania/Projects/CopyOfObjectProgram1/CopyOfObjectProgram1/obj/x86/Debug/CopyOfObjectProgram1.exe.mdb

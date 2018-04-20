@@ -1,0 +1,5 @@
+/Users/vania/Projects/Functions_First_Meet/Functions_First_Meet/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/vania/Projects/Functions_First_Meet/Functions_First_Meet/bin/Debug/Functions_First_Meet.exe.mdb
+/Users/vania/Projects/Functions_First_Meet/Functions_First_Meet/bin/Debug/Functions_First_Meet.exe
+/Users/vania/Projects/Functions_First_Meet/Functions_First_Meet/obj/x86/Debug/Functions_First_Meet.exe
+/Users/vania/Projects/Functions_First_Meet/Functions_First_Meet/obj/x86/Debug/Functions_First_Meet.exe.mdb

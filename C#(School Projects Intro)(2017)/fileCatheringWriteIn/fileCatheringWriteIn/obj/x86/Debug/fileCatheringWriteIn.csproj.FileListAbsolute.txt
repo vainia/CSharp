@@ -1,0 +1,4 @@
+/Users/vania/Projects/fileCatheringWriteIn/fileCatheringWriteIn/bin/Debug/fileCatheringWriteIn.exe
+/Users/vania/Projects/fileCatheringWriteIn/fileCatheringWriteIn/bin/Debug/fileCatheringWriteIn.exe.mdb
+/Users/vania/Projects/fileCatheringWriteIn/fileCatheringWriteIn/obj/x86/Debug/fileCatheringWriteIn.exe
+/Users/vania/Projects/fileCatheringWriteIn/fileCatheringWriteIn/obj/x86/Debug/fileCatheringWriteIn.exe.mdb

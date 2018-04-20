@@ -1,0 +1,5 @@
+/Users/vania/Projects/Unregular_Table/Unregular_Table/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/vania/Projects/Unregular_Table/Unregular_Table/bin/Debug/Unregular_Table.exe.mdb
+/Users/vania/Projects/Unregular_Table/Unregular_Table/bin/Debug/Unregular_Table.exe
+/Users/vania/Projects/Unregular_Table/Unregular_Table/obj/x86/Debug/Unregular_Table.exe
+/Users/vania/Projects/Unregular_Table/Unregular_Table/obj/x86/Debug/Unregular_Table.exe.mdb

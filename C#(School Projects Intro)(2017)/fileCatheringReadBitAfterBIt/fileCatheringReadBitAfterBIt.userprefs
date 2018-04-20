@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0896568C-8E5A-4129-AA09-01E5122B02A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.fileCatheringReadBitAfterBIt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="fileCatheringReadBitAfterBIt/Program.cs">
+    <Files>
+      <File FileName="fileCatheringReadBitAfterBIt/Program.cs" Line="13" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

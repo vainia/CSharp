@@ -1,0 +1,4 @@
+/Users/vania/Projects/listIncludedWithPolymorphyzm/listIncludedWithPolymorphyzm/bin/Debug/listIncludedWithPolymorphyzm.exe
+/Users/vania/Projects/listIncludedWithPolymorphyzm/listIncludedWithPolymorphyzm/bin/Debug/listIncludedWithPolymorphyzm.exe.mdb
+/Users/vania/Projects/listIncludedWithPolymorphyzm/listIncludedWithPolymorphyzm/obj/x86/Debug/listIncludedWithPolymorphyzm.exe
+/Users/vania/Projects/listIncludedWithPolymorphyzm/listIncludedWithPolymorphyzm/obj/x86/Debug/listIncludedWithPolymorphyzm.exe.mdb

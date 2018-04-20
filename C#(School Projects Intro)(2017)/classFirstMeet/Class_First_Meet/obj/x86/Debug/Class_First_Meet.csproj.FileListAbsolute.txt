@@ -1,0 +1,4 @@
+/Users/vania/Projects/ClassFirstMeet/Class_First_Meet/obj/x86/Debug/Class_First_Meet.exe
+/Users/vania/Projects/ClassFirstMeet/Class_First_Meet/obj/x86/Debug/Class_First_Meet.exe.mdb
+/Users/vania/Projects/ClassFirstMeet/Class_First_Meet/bin/Debug/Class_First_Meet.exe
+/Users/vania/Projects/ClassFirstMeet/Class_First_Meet/bin/Debug/Class_First_Meet.exe.mdb

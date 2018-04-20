@@ -1,0 +1,4 @@
+/Users/vania/Projects/IndexErs/IndexErs/bin/Debug/IndexErs.exe
+/Users/vania/Projects/IndexErs/IndexErs/bin/Debug/IndexErs.exe.mdb
+/Users/vania/Projects/IndexErs/IndexErs/obj/x86/Debug/IndexErs.exe
+/Users/vania/Projects/IndexErs/IndexErs/obj/x86/Debug/IndexErs.exe.mdb

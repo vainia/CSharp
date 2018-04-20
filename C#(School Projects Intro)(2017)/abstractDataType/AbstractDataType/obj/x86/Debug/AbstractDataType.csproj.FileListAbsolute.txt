@@ -1,0 +1,4 @@
+/Users/vania/Projects/AbstractDataType/AbstractDataType/bin/Debug/AbstractDataType.exe
+/Users/vania/Projects/AbstractDataType/AbstractDataType/bin/Debug/AbstractDataType.exe.mdb
+/Users/vania/Projects/AbstractDataType/AbstractDataType/obj/x86/Debug/AbstractDataType.exe
+/Users/vania/Projects/AbstractDataType/AbstractDataType/obj/x86/Debug/AbstractDataType.exe.mdb

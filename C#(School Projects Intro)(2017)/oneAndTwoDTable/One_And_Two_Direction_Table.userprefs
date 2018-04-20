@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{077970EF-3C5B-4C64-BAEF-BB9FAA273CCC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="One_And_Two_Direction_Table/Program.cs">
+    <Files>
+      <File FileName="One_And_Two_Direction_Table/Program.cs" Line="18" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="One_And_Two_Direction_Table" expanded="True">
+            <Node name="One_And_Two_Direction_Table" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="One_And_Two_Direction_Table" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.One__And__Two__Direction__Table PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

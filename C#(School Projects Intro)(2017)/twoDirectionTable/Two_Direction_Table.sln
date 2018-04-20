@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Direction_Table", "Two_Direction_Table\Two_Direction_Table.csproj", "{D825C8C5-5E48-4F55-9658-D06E77AE4753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D825C8C5-5E48-4F55-9658-D06E77AE4753}.Debug|x86.ActiveCfg = Debug|x86
+		{D825C8C5-5E48-4F55-9658-D06E77AE4753}.Debug|x86.Build.0 = Debug|x86
+		{D825C8C5-5E48-4F55-9658-D06E77AE4753}.Release|x86.ActiveCfg = Release|x86
+		{D825C8C5-5E48-4F55-9658-D06E77AE4753}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

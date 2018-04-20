@@ -1,0 +1,71 @@
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+\\mac\home\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.gameX.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.gameX.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+E:\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+E:\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.mainWindow.resources
+E:\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.gameXO.resources
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.mainWindow.resources
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.gameXO.resources
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+\\Mac\Home\Desktop\XO UPD1\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.mainWindow.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.gameXO.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+I:\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+I:\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+I:\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+I:\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+I:\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+I:\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+I:\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.mainWindow.resources
+I:\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.gameXO.resources
+I:\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+I:\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.mainWindow.resources
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.gameXO.resources
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\WSISIZ\LETNI2017\C#\XO UPD2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

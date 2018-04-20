@@ -1,0 +1,4 @@
+/Users/vania/Projects/polymorphyzm/polymorphyzm/bin/Debug/polymorphyzm.exe
+/Users/vania/Projects/polymorphyzm/polymorphyzm/bin/Debug/polymorphyzm.exe.mdb
+/Users/vania/Projects/polymorphyzm/polymorphyzm/obj/x86/Debug/polymorphyzm.exe
+/Users/vania/Projects/polymorphyzm/polymorphyzm/obj/x86/Debug/polymorphyzm.exe.mdb

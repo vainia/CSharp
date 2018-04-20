@@ -1,0 +1,4 @@
+/Users/vania/Projects/exceptions/exceptions/bin/Debug/exceptions.exe
+/Users/vania/Projects/exceptions/exceptions/bin/Debug/exceptions.exe.mdb
+/Users/vania/Projects/exceptions/exceptions/obj/x86/Debug/exceptions.exe
+/Users/vania/Projects/exceptions/exceptions/obj/x86/Debug/exceptions.exe.mdb

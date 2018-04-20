@@ -1,0 +1,4 @@
+/Users/vania/Projects/fileCatheringNumbersReading/fileCatheringNumbersReading/bin/Debug/fileCatheringNumbersReading.exe
+/Users/vania/Projects/fileCatheringNumbersReading/fileCatheringNumbersReading/bin/Debug/fileCatheringNumbersReading.exe.mdb
+/Users/vania/Projects/fileCatheringNumbersReading/fileCatheringNumbersReading/obj/x86/Debug/fileCatheringNumbersReading.exe
+/Users/vania/Projects/fileCatheringNumbersReading/fileCatheringNumbersReading/obj/x86/Debug/fileCatheringNumbersReading.exe.mdb

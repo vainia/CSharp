@@ -1,0 +1,4 @@
+/Users/vania/Projects/AccessoryGetNSet/AccessoryGetNSet/bin/Debug/AccessoryGetNSet.exe
+/Users/vania/Projects/AccessoryGetNSet/AccessoryGetNSet/bin/Debug/AccessoryGetNSet.exe.mdb
+/Users/vania/Projects/AccessoryGetNSet/AccessoryGetNSet/obj/x86/Debug/AccessoryGetNSet.exe
+/Users/vania/Projects/AccessoryGetNSet/AccessoryGetNSet/obj/x86/Debug/AccessoryGetNSet.exe.mdb

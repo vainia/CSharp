@@ -1,0 +1,4 @@
+/Users/vania/Projects/fileCatheringLinesReading/fileCatheringLinesReading/bin/Debug/fileCatheringLinesReading.exe
+/Users/vania/Projects/fileCatheringLinesReading/fileCatheringLinesReading/bin/Debug/fileCatheringLinesReading.exe.mdb
+/Users/vania/Projects/fileCatheringLinesReading/fileCatheringLinesReading/obj/x86/Debug/fileCatheringLinesReading.exe
+/Users/vania/Projects/fileCatheringLinesReading/fileCatheringLinesReading/obj/x86/Debug/fileCatheringLinesReading.exe.mdb

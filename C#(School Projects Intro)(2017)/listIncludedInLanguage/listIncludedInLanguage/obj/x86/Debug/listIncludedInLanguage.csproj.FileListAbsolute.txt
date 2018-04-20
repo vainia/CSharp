@@ -1,0 +1,4 @@
+/Users/vania/Projects/listIncludedInLanguage/listIncludedInLanguage/bin/Debug/listIncludedInLanguage.exe
+/Users/vania/Projects/listIncludedInLanguage/listIncludedInLanguage/bin/Debug/listIncludedInLanguage.exe.mdb
+/Users/vania/Projects/listIncludedInLanguage/listIncludedInLanguage/obj/x86/Debug/listIncludedInLanguage.exe
+/Users/vania/Projects/listIncludedInLanguage/listIncludedInLanguage/obj/x86/Debug/listIncludedInLanguage.exe.mdb

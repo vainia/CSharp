@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexErs", "IndexErs\IndexErs.csproj", "{E88525E8-936C-46BE-A14A-08E221BBFBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88525E8-936C-46BE-A14A-08E221BBFBDB}.Debug|x86.ActiveCfg = Debug|x86
+		{E88525E8-936C-46BE-A14A-08E221BBFBDB}.Debug|x86.Build.0 = Debug|x86
+		{E88525E8-936C-46BE-A14A-08E221BBFBDB}.Release|x86.ActiveCfg = Release|x86
+		{E88525E8-936C-46BE-A14A-08E221BBFBDB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

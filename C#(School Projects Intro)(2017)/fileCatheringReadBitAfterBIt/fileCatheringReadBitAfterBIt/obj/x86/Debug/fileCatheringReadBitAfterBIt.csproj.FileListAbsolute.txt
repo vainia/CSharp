@@ -1,0 +1,4 @@
+/Users/vania/Projects/fileCatheringReadBitAfterBIt/fileCatheringReadBitAfterBIt/bin/Debug/fileCatheringReadBitAfterBIt.exe
+/Users/vania/Projects/fileCatheringReadBitAfterBIt/fileCatheringReadBitAfterBIt/bin/Debug/fileCatheringReadBitAfterBIt.exe.mdb
+/Users/vania/Projects/fileCatheringReadBitAfterBIt/fileCatheringReadBitAfterBIt/obj/x86/Debug/fileCatheringReadBitAfterBIt.exe
+/Users/vania/Projects/fileCatheringReadBitAfterBIt/fileCatheringReadBitAfterBIt/obj/x86/Debug/fileCatheringReadBitAfterBIt.exe.mdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E88525E8-936C-46BE-A14A-08E221BBFBDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IndexErs/Program.cs">
+    <Files>
+      <File FileName="IndexErs/Program.cs" Line="46" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IndexErs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

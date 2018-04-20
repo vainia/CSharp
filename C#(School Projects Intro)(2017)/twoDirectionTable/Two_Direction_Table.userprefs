@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D825C8C5-5E48-4F55-9658-D06E77AE4753}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Two_Direction_Table/Program.cs">
+    <Files>
+      <File FileName="Two_Direction_Table/Program.cs" Line="48" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Two_Direction_Table" expanded="True">
+            <Node name="Two_Direction_Table" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Two__Direction__Table PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

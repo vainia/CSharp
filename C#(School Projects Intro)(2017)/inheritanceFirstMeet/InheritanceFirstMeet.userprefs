@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0C178953-ECCE-4A68-A00F-63E6908D3D08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceFirstMeet/Program.cs">
+    <Files>
+      <File FileName="InheritanceFirstMeet/Program.cs" Line="19" Column="92" />
+      <File FileName="InheritanceFirstMeet/classesA&amp;B.cs" Line="80" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.InheritanceFirstMeet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

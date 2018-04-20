@@ -1,0 +1,5 @@
+Hello, Ivan!
+It`s a new file TXT named: T_0001.
+Specially, ocasional, only for your powerful usage!!!
+If you read this text from program created in Visual Studio, I think,
+you could named like Sisharpimagician!!!

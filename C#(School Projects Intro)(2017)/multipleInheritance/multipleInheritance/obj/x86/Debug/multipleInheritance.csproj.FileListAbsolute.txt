@@ -1,0 +1,4 @@
+/Users/vania/Projects/multipleInheritance/multipleInheritance/bin/Debug/multipleInheritance.exe
+/Users/vania/Projects/multipleInheritance/multipleInheritance/bin/Debug/multipleInheritance.exe.mdb
+/Users/vania/Projects/multipleInheritance/multipleInheritance/obj/x86/Debug/multipleInheritance.exe
+/Users/vania/Projects/multipleInheritance/multipleInheritance/obj/x86/Debug/multipleInheritance.exe.mdb

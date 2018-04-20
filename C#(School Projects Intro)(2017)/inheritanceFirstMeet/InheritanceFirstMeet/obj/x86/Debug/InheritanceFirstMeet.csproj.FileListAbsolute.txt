@@ -1,0 +1,4 @@
+/Users/vania/Projects/InheritanceFirstMeet/InheritanceFirstMeet/bin/Debug/InheritanceFirstMeet.exe
+/Users/vania/Projects/InheritanceFirstMeet/InheritanceFirstMeet/bin/Debug/InheritanceFirstMeet.exe.mdb
+/Users/vania/Projects/InheritanceFirstMeet/InheritanceFirstMeet/obj/x86/Debug/InheritanceFirstMeet.exe
+/Users/vania/Projects/InheritanceFirstMeet/InheritanceFirstMeet/obj/x86/Debug/InheritanceFirstMeet.exe.mdb

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{554C2773-B39B-4674-B640-0871B133B14C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="polymorphyzm/myTab.cs">
+    <Files>
+      <File FileName="polymorphyzm/Program.cs" Line="25" Column="35" />
+      <File FileName="polymorphyzm/myTab.cs" Line="67" Column="61" />
+      <File FileName="polymorphyzm/A.cs" Line="15" Column="4" />
+      <File FileName="polymorphyzm/B.cs" Line="20" Column="3" />
+      <File FileName="polymorphyzm/C.cs" Line="14" Column="34" />
+      <File FileName="polymorphyzm/D.cs" Line="18" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.polymorphyzm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+/Users/vania/Projects/TwoDirectionTable/Two_Direction_Table/bin/Debug/Two_Direction_Table.exe
+/Users/vania/Projects/TwoDirectionTable/Two_Direction_Table/bin/Debug/Two_Direction_Table.exe.mdb
+/Users/vania/Projects/TwoDirectionTable/Two_Direction_Table/obj/x86/Debug/Two_Direction_Table.exe
+/Users/vania/Projects/TwoDirectionTable/Two_Direction_Table/obj/x86/Debug/Two_Direction_Table.exe.mdb

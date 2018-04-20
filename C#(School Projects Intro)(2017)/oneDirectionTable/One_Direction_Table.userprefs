@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B38B6947-A385-46FB-A600-451448B56B59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FIRST_PROJECT_CSHARP/One Direct Table.cs">
+    <Files>
+      <File FileName="FIRST_PROJECT_CSHARP/One Direct Table.cs" Line="5" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FIRST__PROJECT__CSHARP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

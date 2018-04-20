@@ -1,0 +1,5 @@
+/Users/vania/Projects/Two_Direction_Table/Two_Direction_Table/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/vania/Projects/Two_Direction_Table/Two_Direction_Table/bin/Debug/Two_Direction_Table.exe.mdb
+/Users/vania/Projects/Two_Direction_Table/Two_Direction_Table/bin/Debug/Two_Direction_Table.exe
+/Users/vania/Projects/Two_Direction_Table/Two_Direction_Table/obj/x86/Debug/Two_Direction_Table.exe
+/Users/vania/Projects/Two_Direction_Table/Two_Direction_Table/obj/x86/Debug/Two_Direction_Table.exe.mdb
