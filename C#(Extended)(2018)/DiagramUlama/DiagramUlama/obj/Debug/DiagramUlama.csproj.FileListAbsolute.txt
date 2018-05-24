@@ -1,0 +1,10 @@
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\bin\Debug\DiagramUlama.exe.config
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\bin\Debug\DiagramUlama.exe
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\bin\Debug\DiagramUlama.pdb
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\obj\Debug\DiagramUlama.csprojResolveAssemblyReference.cache
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\obj\Debug\DiagramUlama.Properties.Resources.resources
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\obj\Debug\DiagramUlama.csproj.GenerateResource.Cache
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\obj\Debug\DiagramUlama.exe
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\obj\Debug\DiagramUlama.pdb
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\obj\Debug\DiagramUlama.csproj.CoreCompileInputs.cache
+C:\Users\napolsky\Desktop\DiagramUlama\DiagramUlama\obj\Debug\DiagramUlama.DiagramUlama.resources
